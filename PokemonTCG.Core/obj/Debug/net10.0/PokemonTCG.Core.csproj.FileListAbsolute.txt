@@ -1,0 +1,11 @@
+C:\Users\wallon\source\repos\PokemonTCG.Core\PokemonTCG.Core\obj\Debug\net10.0\PokemonTCG.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wallon\source\repos\PokemonTCG.Core\PokemonTCG.Core\obj\Debug\net10.0\PokemonTCG.Core.AssemblyInfoInputs.cache
+C:\Users\wallon\source\repos\PokemonTCG.Core\PokemonTCG.Core\obj\Debug\net10.0\PokemonTCG.Core.AssemblyInfo.cs
+C:\Users\wallon\source\repos\PokemonTCG.Core\PokemonTCG.Core\obj\Debug\net10.0\PokemonTCG.Core.csproj.CoreCompileInputs.cache
+C:\Users\wallon\source\repos\PokemonTCG.Core\PokemonTCG.Core\bin\Debug\net10.0\PokemonTCG.Core.deps.json
+C:\Users\wallon\source\repos\PokemonTCG.Core\PokemonTCG.Core\bin\Debug\net10.0\PokemonTCG.Core.dll
+C:\Users\wallon\source\repos\PokemonTCG.Core\PokemonTCG.Core\bin\Debug\net10.0\PokemonTCG.Core.pdb
+C:\Users\wallon\source\repos\PokemonTCG.Core\PokemonTCG.Core\obj\Debug\net10.0\PokemonTCG.Core.dll
+C:\Users\wallon\source\repos\PokemonTCG.Core\PokemonTCG.Core\obj\Debug\net10.0\refint\PokemonTCG.Core.dll
+C:\Users\wallon\source\repos\PokemonTCG.Core\PokemonTCG.Core\obj\Debug\net10.0\PokemonTCG.Core.pdb
+C:\Users\wallon\source\repos\PokemonTCG.Core\PokemonTCG.Core\obj\Debug\net10.0\ref\PokemonTCG.Core.dll

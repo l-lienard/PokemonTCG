@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PokemonTCG.Core/PokemonTCG.Core.csproj" />
+  <Project Path="PokemonTCG.Tests/PokemonTCG.Tests.csproj" />
+  <Project Path="PokemonTCG.WinForms/PokemonTCG.WinForms.csproj" />
+</Solution>
